@@ -1,2 +1,1 @@
-# kinopub
-KinoPub domains and ip-list
+# Домены KinoPub
